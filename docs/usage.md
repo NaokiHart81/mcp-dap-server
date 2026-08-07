@@ -47,3 +47,4 @@ Notes and usage details for mcp-dap-server.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- link the usage section
